@@ -1,0 +1,17 @@
+@import "theme/variables";  // variables here
+
+@import "theme/body";
+
+// Theme partials //
+@import "theme/header";
+
+// Menus
+@import "theme/navigation";
+
+// Page
+@import "theme/home";
+@import "theme/sidebar";
+@import "theme/blog";
+
+// Footer
+@import "theme/footer";
